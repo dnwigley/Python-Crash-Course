@@ -1,0 +1,1 @@
+print('Napoleon Bonaparte once said, "Glory is fleeting, but obscurity is forever."')
